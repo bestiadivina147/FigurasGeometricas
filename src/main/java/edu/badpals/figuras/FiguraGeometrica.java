@@ -2,6 +2,11 @@ package edu.badpals.figuras;
 
 public abstract class FiguraGeometrica {
     private String nombre;
+    
+
+    public FiguraGeometrica() {
+        this.nombre = "desconocido";
+    }
 
     public FiguraGeometrica(String nombre) {
         this.nombre = nombre;
