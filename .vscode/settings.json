@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "pom.xml"
+        "pom.xml",
+        "FiguraGeometrica.java"
     ]
 }
