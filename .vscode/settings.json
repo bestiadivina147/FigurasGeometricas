@@ -3,6 +3,7 @@
         "pom.xml",
         "FiguraGeometrica.java",
         "FiguraGeometrica.java",
-        "Circulo.java"
+        "Circulo.java",
+        "CirculoTest.java"
     ]
 }
