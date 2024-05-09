@@ -1,0 +1,11 @@
+{
+    "conventionalCommits.scopes": [
+        "pom.xml",
+        "FiguraGeometrica.java",
+        "FiguraGeometrica.java",
+        "Circulo.java",
+        "CirculoTest.java",
+        "Cuadrado.java",
+        "CuadradoTest.java"
+    ]
+}
