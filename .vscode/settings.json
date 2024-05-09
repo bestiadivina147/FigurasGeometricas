@@ -5,6 +5,7 @@
         "FiguraGeometrica.java",
         "Circulo.java",
         "CirculoTest.java",
-        "Cuadrado.java"
+        "Cuadrado.java",
+        "CuadradoTest.java"
     ]
 }
