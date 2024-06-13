@@ -9,7 +9,8 @@
         "CuadradoTest.java",
         "RectanguloTest.java",
         "Rectangulo.java",
-        "Elipse.java"
+        "Elipse.java",
+        "Drawable.java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

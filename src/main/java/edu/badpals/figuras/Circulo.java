@@ -1,6 +1,6 @@
 package edu.badpals.figuras;
 
-public class Circulo extends FiguraGeometrica {
+public class Circulo extends FiguraGeometrica implements Drawable {
 
     private double radio = 0d;
 
@@ -14,6 +14,11 @@ public class Circulo extends FiguraGeometrica {
     @Override
     public double area() {
         return PI*this.radio*this.radio;
+    }
+
+    @Override
+    public void draw() {
+        System.out.println("Dibujo círculo");
     }
 
 }
