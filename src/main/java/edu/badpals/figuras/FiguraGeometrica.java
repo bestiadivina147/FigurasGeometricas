@@ -21,4 +21,14 @@ public abstract class FiguraGeometrica {
     }
 
     public abstract double area();
+    @Override
+    public String toString() {
+        StringBuilder salida = new StringBuilder();
+        salida.append("Figura:")
+            .append(this.nombre)
+            .append("\t")
+            .append("Area: ")
+            . append(this.area);
+        return salida.toString();
+    }
 }
