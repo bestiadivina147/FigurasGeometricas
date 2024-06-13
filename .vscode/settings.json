@@ -6,6 +6,7 @@
         "Circulo.java",
         "CirculoTest.java",
         "Cuadrado.java",
-        "CuadradoTest.java"
+        "CuadradoTest.java",
+        "RectanguloTest.java"
     ]
 }
