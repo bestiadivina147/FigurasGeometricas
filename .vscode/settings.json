@@ -7,6 +7,8 @@
         "CirculoTest.java",
         "Cuadrado.java",
         "CuadradoTest.java",
-        "RectanguloTest.java"
-    ]
+        "RectanguloTest.java",
+        "Rectangulo.java"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
